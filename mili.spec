@@ -28,6 +28,6 @@ no CSD (unlike gedit) = no issues with tiling or screen sharing
 %make_build
 
 %install
-%make_install
+%py_install
 
 %files
