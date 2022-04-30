@@ -25,7 +25,7 @@ no CSD (unlike gedit) = no issues with tiling or screen sharing
 %autosetup -n %{name}-v%{version} -p1
  
 %build
-%make_build
+%py_build
 
 %install
 %py_install
