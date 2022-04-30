@@ -21,7 +21,7 @@ ability to rebind even basic actions (such as saving the current file)
 no CSD (unlike gedit) = no issues with tiling or screen sharing
 
 %prep
-%autosetup -p1
+%autosetup -n %{name}-v%{version} -p1
  
 %build
 %make_build
