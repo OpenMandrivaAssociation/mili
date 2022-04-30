@@ -11,6 +11,7 @@ BuildRequires:  pkgconfig(python)
 BuildRequires:  pkgconfig(pygobject-3.0)
 BuildRequires:  pkgconfig(gtk+-3.0)
 BuildRequires:  pkgconfig(gtksourceview-3.0)
+BuildRequires:  python3dkist(setuptools)
 
 %description
 Mili is a simple and lightweight (but highly configurable) text editor written in Python. It's based on GTK3 and uses GtkSourceView for most of its text editing functionality.
