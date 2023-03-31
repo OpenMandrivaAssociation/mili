@@ -2,7 +2,7 @@
 
 Name:       mili
 Version:    3.1.0
-Release:    1
+Release:    2
 Summary:    Minimalistic text editor made with Python and GTK
 Group:      Text/Editors
 License:    MIT
